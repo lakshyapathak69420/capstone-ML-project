@@ -12,10 +12,10 @@ Diabetes is one of the most common health challenges globally, and early predict
 ---
 
 ## 📂 Dataset  
-- **Source:** [UCI Pima Indians Diabetes Dataset](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes)  
-- **Features:** 8 diagnostic measurements (e.g., glucose, BMI, age, pregnancies, etc.)  
+- **Source:** [UCI Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)  
+- **Features:** 21 diagnostic measurements (e.g., glucose, BMI, age, education level, etc.)  
 - **Target:** Binary classification (Diabetic / Not Diabetic)  
-- **Size:** 768 rows, 8 features  
+- **Size:** 500,000+ rows, 21 features, 1 Label  
 
 ---
 
@@ -63,7 +63,7 @@ These results were achieved on a personal laptop, which limited the extent of hy
    - `2_Data_Preparation.ipynb`  
    - `3_Model_Training.ipynb`  
    - `4_Testing_and_Evaluation.ipynb`  
-3. Run each step to reproduce results.  
+3. Run each step to reproduce results.  https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes
 
 ---
 
