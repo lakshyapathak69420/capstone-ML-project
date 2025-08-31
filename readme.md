@@ -31,21 +31,23 @@ The following models were trained and evaluated:
 ## 📊 Results  
 
 ### Training Performance
-| Model                | Recall  | Precision | ROC-AUC |  
-|-----------------------|---------|-----------|---------|  
-| Logistic Regression   | 0.75    | 0.72      | 0.81    |  
-| KNN Classifier        | 0.88    | 0.82      | 0.92    |  
-| Random Forest         | 0.96    | 0.95      | 0.99    |  
-| XGBoost Classifier    | 0.82    | 0.74      | 0.85    |  
+Accuracy:
+
+| Model                 |  Accuracy  | Recall  | Precision | ROC-AUC |  
+|-----------------------|------------|---------|-----------|---------|  
+| Logistic Regression   | 0.73       | 0.75    | 0.72      | 0.81    |  
+| KNN Classifier        | 0.89       | 0.88    | 0.82      | 0.92    |  
+| Random Forest         | 0.95       | 0.96    | 0.95      | 0.99    |  
+| XGBoost Classifier    | 0.80       | 0.82    | 0.74      | 0.85    |  
 
 ### Testing Performance  
 
 | Model                  | Accuracy | Recall | Precision | ROC Score |
 |------------------------|----------|--------|-----------|-----------|
-| Logistic Regression    | 0.7206   | 0.75   | 0.38      | 0.81      |
-| K-Nearest Neighbors    | 0.7587   | 0.83   | 0.43      | 0.84      |
-| Random Forest          | 0.8210   | 0.92   | 0.52      | 0.94      |
-| XGBoost Classifier     | 0.7337   | 0.82   | 0.40      | 0.85      |
+| Logistic Regression    | 0.72     | 0.75   | 0.38      | 0.81      |
+| K-Nearest Neighbors    | 0.75     | 0.83   | 0.43      | 0.84      |
+| Random Forest          | 0.82     | 0.92   | 0.52      | 0.94      |
+| XGBoost Classifier     | 0.73     | 0.82   | 0.40      | 0.85      |
 
 ➡️ *For detailed analysis and discussions, please refer to the full project/research report included in this repository.*
 
