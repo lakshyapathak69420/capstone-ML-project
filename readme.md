@@ -31,7 +31,6 @@ The following models were trained and evaluated:
 ## 📊 Results  
 
 ### Training Performance
-Accuracy:
 
 | Model                 |  Accuracy  | Recall  | Precision | ROC-AUC |  
 |-----------------------|------------|---------|-----------|---------|  
