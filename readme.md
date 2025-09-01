@@ -64,7 +64,7 @@ These results were achieved on a personal laptop, which limited the extent of hy
    - `2_Data_Preparation.ipynb`  
    - `3_Model_Training.ipynb`  
    - `4_Testing_and_Evaluation.ipynb`  
-3. Run each step to reproduce results.  https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes
+3. Run each step to reproduce results.  https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 ---
 
