@@ -1,6 +1,6 @@
 # Diabetes Prediction using Machine Learning  
 
-This project focuses on predicting whether a patient is diabetic or not using the **Pima Indians Diabetes Dataset** from the UCI Machine Learning Repository. Alongside building predictive models, the project also compares multiple algorithms to understand which performs best for this classification task.  
+This project focuses on predicting whether a patient is diabetic or not using the **Behavioral Risk Factor Surveillance System** from the UCI Machine Learning Repository. Alongside building predictive models, the project also compares multiple algorithms to understand which performs best for this classification task.  
 
 ---
 
@@ -69,4 +69,4 @@ These results were achieved on a personal laptop, which limited the extent of hy
 ---
 
 ## ✨ Conclusion  
-This project demonstrates how different machine learning models can be applied to diabetes prediction. Random Forest performed the best overall, while Logistic Regression provided a simple baseline. Despite computational limitations, the project establishes a strong baseline and offers room for further improvements with deeper tuning and advanced resources.  
+This project demonstrates how different machine learning models can be applied to diabetes prediction. Random Forest performed the best overall, while Logistic Regression provided a simple baseline. Despite computational limitations, the project establishes a strong baseline and offers room for further improvements with deeper tuning and advanced resources. 
