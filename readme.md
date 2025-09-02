@@ -12,7 +12,7 @@ Diabetes is one of the most common health challenges globally, and early predict
 ---
 
 ## 📂 Dataset  
-- **Source:** [UCI Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)  
+- **Source:** [Behavioral Risk Factor Surveillance System](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)  
 - **Features:** 21 diagnostic measurements (e.g., glucose, BMI, age, education level, etc.)  
 - **Target:** Binary classification (Diabetic / Not Diabetic)  
 - **Size:** 500,000+ rows, 21 features, 1 Label  
